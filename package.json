@@ -1,0 +1,32 @@
+{
+  "name": "discord-avatar-fetcher",
+  "version": "1.0.0",
+  "description": "Fetches the URL for the user's current avatar from the Discord API",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjisoft/Discord-Avatar-Fetcher.git"
+  },
+  "author": "Ben Lewis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benjisoft/Discord-Avatar-Fetcher/issues"
+  },
+  "homepage": "https://github.com/benjisoft/Discord-Avatar-Fetcher#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.21.0",
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-promise": "^6.1.1",
+    "typescript": "^5.4.2"
+  },
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
