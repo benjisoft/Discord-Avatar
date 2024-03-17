@@ -1,6 +1,6 @@
 {
   "name": "discord-avatar-fetcher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fetches the URL for the user's current avatar from the Discord API",
   "main": "dist/index.js",
   "scripts": {
