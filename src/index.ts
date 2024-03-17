@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: (C) 2024 Ben Lewis <oss@benjilewis.dev>
+//
+// SPDX-License-Identifier: MIT
+
 import axios from 'axios';
 
 export class DiscordAvatar {
